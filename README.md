@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou Gabriel Watanabe👋
 
-<!--
-**gabrielwatanabe043/gabrielwatanabe043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on tata consultancy services<br>🌱 I’m currently learning Java<br>
+## 🌐 Socials:
+  <a href="https://www.linkedin.com/in/gabriel-watanabe-796637212/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabriel.watanabe_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:gabrielpereira569@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-hotmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a height="50" href="https://cursos.alura.com.br/user/gabrielpereira569" target="_blank"><img height="28" src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" target="_blank"></a>
+    
+    # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gabrielwatanabe043&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwatanabe043&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
