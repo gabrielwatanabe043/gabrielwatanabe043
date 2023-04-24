@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel Watanabe👋
 
-🔭 I’m currently working on tata consultancy services<br>🌱 I’m currently learning Java<br>
+🔭 I’m currently working on tata consultancy services<br>🌱 I’m currently learning Java and C#<br>
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/gabriel-watanabe-796637212/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/gabriel.watanabe_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
