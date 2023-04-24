@@ -7,7 +7,5 @@
   <a href="mailto:gabrielpereira569@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-hotmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a height="50" href="https://cursos.alura.com.br/user/gabrielpereira569" target="_blank"><img height="28" src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" target="_blank"></a>
     
-    # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabrielwatanabe043&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwatanabe043&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    
 
