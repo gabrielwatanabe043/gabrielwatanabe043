@@ -7,8 +7,6 @@
 ###
 
 <div align="left">
-  ![](https://github-readme-stats.vercel.app/api?username=gabrielwatanabe043&theme=gruvbox_ligh&hide_border=true&include_all_commits=false&count_private=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Lisboa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielwatanabe043&theme=gruvbox_ligh&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielwatanabe043&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
