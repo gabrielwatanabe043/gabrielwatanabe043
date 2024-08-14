@@ -35,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielwatanabe043/gabrielwatanabe043/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
