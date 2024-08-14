@@ -35,10 +35,15 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/gabrielwatanabe043/gabrielwatanabe043/output/snake.svg" alt="Snake animation" />
 
 ###
 
+###
+
+<h2 align="left">Social network:</h2>
+
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-watanabe-796637212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
