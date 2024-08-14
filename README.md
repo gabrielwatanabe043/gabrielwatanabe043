@@ -40,9 +40,11 @@
 
 <h2 align="left">Social network:</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabrielwatanabe043/count.svg?"  />
-</div>
+###
+
+<img src="https://raw.githubusercontent.com/gabrielwatanabe043/gabrielwatanabe043/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 [![](https://visitcount.itsvg.in/api?id=gabrielwatanabe043&icon=0&color=0)](https://visitcount.itsvg.in)
