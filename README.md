@@ -40,11 +40,11 @@
 
 <h2 align="left">Social network:</h2>
 
-###
 
-![snake gif](https://github.com/gabrielwatanabe043/gabrielwatanabe043/blob/output/github-contribution-grid-snake.gif)
 
-###
+![snake gif](https://github.com/gabrielwatanabe043/gabrielwatanabe043/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=gabrielwatanabe043&icon=0&color=0)](https://visitcount.itsvg.in)
