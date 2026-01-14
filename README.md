@@ -25,9 +25,6 @@
 
 ###
 
-<h2 align="left">Social network:</h2>
-
-
 
 ![snake gif](https://github.com/gabrielwatanabe043/gabrielwatanabe043/blob/output/github-contribution-grid-snake-dark.svg)
 
