@@ -1,18 +1,5 @@
 <p align="left">Hi there! 👋<br><br>I'm a Full-Stack Developer specializing in Java and Angular, with a degree in Systems Analysis and Development. While I may not have a lot of experience yet, I am passionate about learning and continuously improving my skills. I'm eager to take on new challenges, contribute to exciting projects, and grow as a developer. Let's connect and build something great together!</p>
 
-###
-
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielwatanabe043&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielwatanabe043&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
